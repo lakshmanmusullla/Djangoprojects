@@ -1,0 +1,23 @@
+DTL is a template language for Django
+
+It has it own tags to perform different operations
+
+Create a templates folder in root directory and add templates you use in that folder
+
+include the path of Templates in DIR[] of settings.py file
+
+
+Templates in Views:
+
+In order to use template in views,we use shorcut module render
+
+render(request, template name,context value)
+
+in order to reduce huge html code redundancy we can use template inheritence
+
+Template Loading
+
+Django provides a convenient and powerful API for loading templates from the filesystem, with the goal of removing redundancy both in your template-loading calls and in your templates themselves. 
+In order to use this template-loading API, first you’ll need to tell the framework where you store your templates.
+The place to do this is in your settings file – the settings.py file that I mentioned last chapter, when I introduced the ROOT_URLCONF setting. 
+If you’re following along, open your settings.py and find the TEMPLATES setting. It’s a list of configurations, one for each engine:

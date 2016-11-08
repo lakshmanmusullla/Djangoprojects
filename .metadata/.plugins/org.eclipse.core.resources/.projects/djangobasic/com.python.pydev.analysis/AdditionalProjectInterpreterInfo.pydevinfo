@@ -1,0 +1,54 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\hp\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\djangobasic\com.python.pydev.analysis\v2_indexcache
+books.models|1478368936107586000|C:\Users\hp\workspace\djangobasic\books\models.py
+books.views|1478368936124611000|C:\Users\hp\workspace\djangobasic\books\views.py
+djangobasic.urls|1478355362229692000|C:\Users\hp\workspace\djangobasic\djangobasic\urls.py
+djangobasic.settings|1478361158123196000|C:\Users\hp\workspace\djangobasic\djangobasic\settings.py
+djangobasic.wsgi|1478285992769162000|C:\Users\hp\workspace\djangobasic\djangobasic\wsgi.py
+djangobasic.__init__|1478285992771168000|C:\Users\hp\workspace\djangobasic\djangobasic\__init__.py
+books.apps|1478368936093568000|C:\Users\hp\workspace\djangobasic\books\apps.py
+manage|1478285992711076000|C:\Users\hp\workspace\djangobasic\manage.py
+books.tests|1478368936116602000|C:\Users\hp\workspace\djangobasic\books\tests.py
+djangobasic.views|1478365930594424000|C:\Users\hp\workspace\djangobasic\djangobasic\views.py
+books.admin|1478368936079546000|C:\Users\hp\workspace\djangobasic\books\admin.py
+books.__init__|1478368936126618000|C:\Users\hp\workspace\djangobasic\books\__init__.py
+books.migrations.__init__|1478368936129618000|C:\Users\hp\workspace\djangobasic\books\migrations\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=djangobasic.urls
+4=djangobasic.views
+6=BooksConfig
+1=djangobasic.settings
+2=djangobasic.wsgi
+3=books.apps
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+boo|1|BooksConfig!25@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+hel|1|hello!34@
+hou|1|hours_head!34@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+tin|1|tine!34@
+url|1|urlpatterns!43@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+1
+nam|1|name!6&27@
+-- END TREE

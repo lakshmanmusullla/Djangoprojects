@@ -1,0 +1,24 @@
+'''
+Created on 05-Nov-2016
+
+@author: lakshman
+'''
+from django.http import HttpResponse
+import datetime
+from django.http import Http404, HttpResponse
+def hello(request):
+    return HttpResponse("hello django basic user")
+
+def tine(request):
+    now = datetime.datetime.now()
+    html = "It is now %s which is UTC time." % now
+    return HttpResponse(html)
+
+def hours_head(request, offset):
+    try:
+        offset = int(offset)
+    except ValueError:
+        raise Http404()
+    dt = datetime.datetime.now() + datetime.timedelta(hours=offset)
+    html = "In %s hour(s), it will be  %s." % (offset, dt)
+    return HttpResponse(html)

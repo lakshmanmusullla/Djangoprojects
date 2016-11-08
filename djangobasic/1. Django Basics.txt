@@ -1,0 +1,39 @@
+Installation:
+
+    Inorder to work with Django first we need python
+
+    After installing python, use pip command in python shell the following command to install Django
+
+pip install django   #command to install django
+
+
+Creating a project in Django:
+ 
+django-admin startproject projectname  # commmand to create aproject in django
+
+
+on running the above command a folder is created with following files:
+manage.py : A command line utility used to communite with django project
+
+The inner mysite/ directory. It’s the Python package for your project. It’s the name you’ll use to import anything inside it (e.g. mysite.urls).
+mysite/__init__.py:
+
+An empty file that tells Python that this directory should be considered a Python package. 
+
+mysite/settings.py:   Settings/configuration for this Django project. 
+
+mysite/urls.py:
+ The URL declarations for this Django project; a “table of contents” of your Django-powered site. 
+
+mysite/wsgi.py:
+ An entry-point for WSGI-compatible web servers to serve your project.
+
+
+
+DJango Settings:
+Set the time to local timezone
+
+Development Server:
+     To check DJango dev server is working run commmand "python manage.py runserver" on root directory(outside folder)
+
+

@@ -1,0 +1,16 @@
+MODULES_MANAGER_V2
+books.__init__|C:\Users\hp\workspace\djangobasic\books\__init__.py
+books.admin|C:\Users\hp\workspace\djangobasic\books\admin.py
+books.apps|C:\Users\hp\workspace\djangobasic\books\apps.py
+books.migrations.0001_initial|C:\Users\hp\workspace\djangobasic\books\migrations\0001_initial.py
+books.migrations.0002_auto_20161109_0045|C:\Users\hp\workspace\djangobasic\books\migrations\0002_auto_20161109_0045.py
+books.migrations.__init__|C:\Users\hp\workspace\djangobasic\books\migrations\__init__.py
+books.models|C:\Users\hp\workspace\djangobasic\books\models.py
+books.tests|C:\Users\hp\workspace\djangobasic\books\tests.py
+books.views|C:\Users\hp\workspace\djangobasic\books\views.py
+djangobasic.__init__|C:\Users\hp\workspace\djangobasic\djangobasic\__init__.py
+djangobasic.settings|C:\Users\hp\workspace\djangobasic\djangobasic\settings.py
+djangobasic.urls|C:\Users\hp\workspace\djangobasic\djangobasic\urls.py
+djangobasic.views|C:\Users\hp\workspace\djangobasic\djangobasic\views.py
+djangobasic.wsgi|C:\Users\hp\workspace\djangobasic\djangobasic\wsgi.py
+manage|C:\Users\hp\workspace\djangobasic\manage.py
